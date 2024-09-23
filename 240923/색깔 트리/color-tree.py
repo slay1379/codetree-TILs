@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-sys.setrecursionlimit(10**6)
+sys.setrecursionlimit(100000)
 from itertools import combinations
 from collections import deque
 from collections import defaultdict
